@@ -1,0 +1,13 @@
+{
+    "name": "olyapolonskaya/card-block",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/olyapolonskaya/card-block",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}
