@@ -1,0 +1,1 @@
+{"version":3,"file":"styleadmin.css","mappings":";;;AACI;EACI;AAAR,C","sources":["webpack://card-block/./src/blockadmin.scss"],"sourcesContent":[".wp-core-ui {\r\n    select {\r\n        width: 100%;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
