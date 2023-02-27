@@ -6,6 +6,8 @@
         "plugin"
     ],
     "homepage": "https://github.com/olyapolonskaya/card-block",
+    "private": true,
+    "license_template": "MIT",
     "type": "wordpress-plugin",
     "require": {
         "php": ">=5.6"
