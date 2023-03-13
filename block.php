@@ -8,10 +8,10 @@
  
 function card_block_script_register() 
 {
-    wp_enqueue_script( 'card-block', plugins_url( 'dist/blockadmin.js', __FILE__ ), ['wp-blocks'], '', true );
+    wp_enqueue_script( 'people', plugins_url( 'dist/blockadmin.js', __FILE__ ), ['wp-blocks'], '', true );
     wp_localize_script(
-        'card-block',
-        'cardBlock',
+        'people',
+        'peopleBlock',
         plugins_url('/people/')
     );
 }

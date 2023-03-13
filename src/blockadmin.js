@@ -70,7 +70,7 @@ wp.blocks.registerBlockType('card/block',{
                         <div class="close">
                             <img 
                                 className="card__close" 
-                                src={ cardBlock+close }
+                                src={ peopleBlock+close }
                                 alt=""
                                 aria-hidden="true"
                             /> 

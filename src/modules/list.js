@@ -15,26 +15,26 @@ export const peopleList = [
         name:'Alex',
         fullname:'Alex Bel', 
         description: 'Description about Alex Bel',
-        image: cardBlock+man1,
+        image: peopleBlock+man1,
         position: 'CEO',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/alex',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/alex',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing,
+                socimg: peopleBlock+xing,
                 soclink: 'xing/alex',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/alex',
                 soctext: 'Facebook'
             }
@@ -44,26 +44,26 @@ export const peopleList = [
         name:'Asia',
         fullname:'Asia Kul', 
         description: 'Description about Asia Kul',
-        image: cardBlock+woman1,
+        image: peopleBlock+woman1,
         position: 'Project Manager',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/asia',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/asia',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing,
+                socimg: peopleBlock+xing,
                 soclink: 'xing/asia',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/asia',
                 soctext: 'Facebook'
             }
@@ -73,26 +73,26 @@ export const peopleList = [
         name:'Piotr',
         fullname:'Piotr Pol', 
         description: 'Description about Piotr Pol',
-        image: cardBlock+man2,
+        image: peopleBlock+man2,
         position: 'Junior Developer',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/piotr',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/piotr',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing, 
+                socimg: peopleBlock+xing, 
                 soclink: 'xing/piotr',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/piotr',
                 soctext: 'Facebook'
             }
@@ -102,26 +102,26 @@ export const peopleList = [
         name:'Borek',
         fullname:'Borek Fec', 
         description: 'Description about Borek Fec',
-        image: cardBlock+man3,
+        image: peopleBlock+man3,
         position: 'Senior Developer',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/borek',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/borek',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing,
+                socimg: peopleBlock+xing,
                 soclink: 'xing/borek',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/borek',
                 soctext: 'Facebook'
             }
@@ -131,26 +131,26 @@ export const peopleList = [
         name:'Barbara',
         fullname:'Barbara Hel', 
         description: 'Description about Barbara Hel',
-        image: cardBlock+woman2,
+        image: peopleBlock+woman2,
         position: 'Junior Developer',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/barbara',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/barbara',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing, 
+                socimg: peopleBlock+xing, 
                 soclink: 'xing/barbara',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/barbara',
                 soctext: 'Facebook'
             }
@@ -160,26 +160,26 @@ export const peopleList = [
         name:'Ania',
         fullname:'Ania Fed', 
         description: 'Description about Ania Fed',
-        image: cardBlock+woman3,
+        image: peopleBlock+woman3,
         position: 'Middle Developer',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/ania',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/ania',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing,
+                socimg: peopleBlock+xing,
                 soclink: 'xing/ania',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/ania',
                 soctext: 'Facebook'
             }
@@ -189,26 +189,26 @@ export const peopleList = [
         name:'Natalia',
         fullname:'Natalia Har', 
         description: 'Description about Natalia Har',
-        image: cardBlock+woman4,
+        image: peopleBlock+woman4,
         position: 'Team Lead',
         social: [
             {
-                socimg: cardBlock+github,
+                socimg: peopleBlock+github,
                 soclink: 'github/natalia',
                 soctext: 'Github'
             },
             {
-                socimg: cardBlock+linkedin,
+                socimg: peopleBlock+linkedin,
                 soclink: 'linkedin/natalia',
                 soctext: 'Linkedin'
             },
             {
-                socimg: cardBlock+xing,
+                socimg: peopleBlock+xing,
                 soclink: 'xing/natalia',
                 soctext: 'Xing'
             },
             {
-                socimg: cardBlock+facebook,
+                socimg: peopleBlock+facebook,
                 soclink: 'facebook/natalia',
                 soctext: 'Facebook'
             }
