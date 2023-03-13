@@ -12,7 +12,7 @@ function card_block_script_register()
     wp_localize_script(
         'card-block',
         'cardBlock',
-        plugins_url('/card-block/')
+        plugins_url('/people/')
     );
 }
 
