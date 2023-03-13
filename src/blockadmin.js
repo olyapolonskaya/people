@@ -4,7 +4,7 @@ import close from './img/close.png';
 
 
 wp.blocks.registerBlockType('card/block',{
-    title: 'Card block',
+    title: 'People',
     icon: 'hammer',
     category: 'design',
     attributes: {

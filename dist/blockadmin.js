@@ -3198,7 +3198,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 wp.blocks.registerBlockType('card/block', {
-  title: 'Card block',
+  title: 'People',
   icon: 'hammer',
   category: 'design',
   attributes: {

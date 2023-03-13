@@ -1,8 +1,9 @@
 <?php
 
 /**
- * Plugin Name: Card block
- * Description: Card block
+ * Plugin Name: People
+ * Description: People
+ * Author: Olha Polonska
  */
  
 function card_block_script_register() 
