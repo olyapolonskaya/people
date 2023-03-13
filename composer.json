@@ -1,11 +1,11 @@
 {
-    "name": "olyapolonskaya/card-block",
+    "name": "olyapolonskaya/people",
     "description": "",
     "keywords": [
         "wordpress",
         "plugin"
     ],
-    "homepage": "https://github.com/olyapolonskaya/card-block",
+    "homepage": "https://github.com/olyapolonskaya/people",
     "private": true,
     "license_template": "MIT",
     "type": "wordpress-plugin",
