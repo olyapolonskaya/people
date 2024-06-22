@@ -5,8 +5,15 @@ Composer support.
 
 Decisions behind
 implementation:
-PHP 7+
-Webpack
-React and JSX
-ES6
-Composer
+<ul>
+  <li>PHP 7+</li>
+  <li>Webpack</li>
+  <li>React and JSX</li>
+  <li>ES6</li>
+  <li>Composer</li>
+</ul>
+
+
+
+
+
